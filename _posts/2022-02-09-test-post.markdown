@@ -16,7 +16,7 @@ tags: [メモ, 雑談] # add tag
 * 日付は世界標準時です。ちゃんと「+9000」を書きましょう
 > [世界標準時](https://time.artjoey.com/jp/)
 * レンタルサーバーを借りるお金がないため(?)、Github Pagesを利用しています。以下は筆者がcommit、pushするときのコピペ用チートシートです。<br>
-``` cd git add . ```<br>
+``` git add . ```<br>
 ``` git commit -m "" ```<br>
 ``` git push origin master ```
 

@@ -4,8 +4,20 @@ title: テスト投稿
 date: 2022-02-09 07:05:00 +9000
 description: メモ代わり # Add post description (optional)
 img: 2021-11-07_20.13.30.png # Add image post (optional)
-tags: [メモ, お知らせ] # add tag
+tags: [メモ, 雑談] # add tag
 ---
 
-はっぴいぱろうぃーーーーーーん！<br>
-こんにちは、いねです。
+こんにちは。<br>
+今回は、このブログを投稿するのにあたっての覚え書きを適当に書いていきたいと思います。<br>
+
+# 投稿について
+* 本文はMarkdownを利用しています。Markdownなんて全然知らないので、チートシートを見ましょう。
+> [Markdownチートシート](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
+* 日付は世界標準時です。ちゃんと「+9000」を書きましょう
+> [世界標準時](https://time.artjoey.com/jp/)
+* レンタルサーバーを借りるお金がないため(?)、Github Pagesを利用しています。以下は筆者がcommit、pushするときのコピペ用チートシートです。
+``` cd git add . ```
+``` git commit -m "" ```
+``` git push origin master ```
+
+他になにかあったら、追記していきます。
